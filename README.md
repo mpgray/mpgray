@@ -9,5 +9,4 @@ boundaries.
 - Résumé: [mgray.me](https://mgray.me/)
 - Business and engineering profile: [gray.rest](https://gray.rest/)
 
-Most of my current work is in private repositories. The public repositories
-here are mostly earlier projects and coursework, kept as a record.
+
